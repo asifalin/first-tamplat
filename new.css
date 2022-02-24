@@ -1,0 +1,205 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+/* section 1 start */
+
+#firstsec{
+    background-image: url(./dark-33.jpg);
+    color: white;
+    font-size: 20px;
+}
+.man{
+    margin-left: 83%;
+    display: flex;
+    width: 50px;
+    height: 65px;
+    padding-top: 2%;
+}
+.id{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 9%;
+}
+.hr{
+    width: 99.5%;
+    height: 50%;
+}
+.review{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+margin-right: 70%;
+margin-left: 10%;
+padding-top: 10%;
+}
+.h1{
+    text-align: center;
+    font-size: 90pt;
+}
+.fuck{
+    padding: 5%;
+}
+.date{
+margin-left: 60%;
+}
+.computer{
+    margin-left: 55%;
+    padding-bottom: 5%;
+
+}
+.computer h4{
+    font-size: 30px;
+    margin-top: 30px;
+}
+ /* section 1 end and 2 start */
+
+#section2{
+    background-color: red;
+    padding: 5%  0%; 
+    color: white;
+}
+.hadding{
+    margin-left: 4%;
+}
+.mandiv{
+    display: flex;
+    margin-left: 1%;
+   
+  
+}
+.mandiv img{
+    margin-left: 37.2px; 
+    width: 230px;
+
+}
+.mandiv p{
+margin-left: 39px;    
+}
+.img1{
+    height: 155px;
+   
+}
+
+/* section 2 end and 3 start */
+#section3{
+    background-color: rgb(41, 39, 39);
+    padding: 5%;
+    color: white;
+}
+.blog{
+    color: red;
+}
+.loremdv{
+    display: flex;
+    margin-left: 5%;
+}
+.lorem1{
+    margin-left: 3%;
+    
+}
+.lorem2{
+    margin-left: 3%;
+    
+}
+.lorem h1{
+    font-size: 40px;
+    
+}
+/* section 3 end and 4 start */
+
+#section4{
+    background-color: rgb(104, 99, 99);
+    padding:5% 0%;
+}
+.section4dv{
+    display: flex;
+    padding: 4% 3%;
+    margin: 5%;
+}
+.dv1{
+    margin-left: 4%;
+    background-color: white;
+}
+.dv2{
+    margin-left: 2%;
+    background-color: white;
+}
+.dv3{
+    margin-left: 2%;
+    background-color: white;
+}
+.dv4{
+    margin-left: 2.7%;
+    background-color: white;
+}
+.btn{
+    background-color: red;
+    margin-left: 85%;
+    padding: 3% 4%;
+    
+}
+.b4{
+    background-color: brown;
+}
+/* section 4 end and 5 start */
+#section5{
+background-image: url(./105679475_162508985432010_601555558168172430_n.jpg);
+color: black;
+font-size: 20px;
+background-size: cover;
+padding: 5% 2%;
+}
+.h1{
+    text-align: center;
+    justify-content: center;
+    font-size: 50pt;
+}
+.date{
+margin-left: 55%;
+}
+.areyou{
+    margin-left: 55%;
+    padding-bottom: 5%;
+}
+.areyou h4{
+    font-size: 30px;
+}
+/* section 5 end and 6 start */
+#section6{
+    background-color: black;
+    padding: 3%;
+    color: white;
+}
+.end1{
+    display: flex;
+    padding: 5%;
+    
+}
+.end1 p{
+    margin-right: 80px;
+}
+.icon{
+  display: flex;
+  font-size: 40px;
+  margin-top: 45px;
+  margin-right: 30px;
+ 
+}
+.icon i{
+    margin: 10px;
+}
+.email{
+    margin-top: 10%;
+    margin-right: 200px;
+}
+.type{
+    padding: 4% 15%;
+    width: 200px;
+}
+.man i{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right: 50px;
+} 
